@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font: small;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+  top: 15%;
+  background: linear-gradient(to right, red, yellow);
+}
+h1 {
+  font: 300;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 30px;
+  height: 40vh;
+}
+h3 {
+  font: 900;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.01rem;
+}
+
+h4 {
+  color: white;
+  margin: 2rem 0;
+  font-size: 1.5rem;
+}
+.btn {
+  border: transparent;
+  padding: 3px;
+  border-radius: 5px;
+}
